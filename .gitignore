@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.log
+
+.venv/
+venv/
+env/
+
+evidencia_arp.txt
+evidencia*.txt
+Herramienta de Ciberseguridad en Python_ Guía Completa*.md
+
+.idea/
+.vscode/
+.DS_Store
